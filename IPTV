@@ -664,6 +664,9 @@ https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel
 
 ##########################RELIGI##########################
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RELIGI",Rodja TV
+http://203.77.246.50:5000/udp/239.1.2.70:5000
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="RELIGI" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ewtn_us.png",EWTN
@@ -898,8 +901,7 @@ http://203.77.246.50:5000/udp/239.1.2.38:5000
 http://203.77.246.50:5000/udp/239.1.2.40:5000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",TVRI HD
 http://203.77.246.50:5000/udp/239.1.2.66:5000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",Rodja TV
-http://203.77.246.50:5000/udp/239.1.2.70:5000
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",Aljaseera World
 http://203.77.246.50:5000/udp/239.1.2.72:5000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",TV China
