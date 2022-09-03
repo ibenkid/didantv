@@ -172,7 +172,7 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_14.png",IMC
 https://liveanevia.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",Sinema Indonesia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",Sinema Indonesia
 http://203.77.246.50:5000/udp/239.1.1.74:5000
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
