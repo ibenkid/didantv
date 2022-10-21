@@ -4,8 +4,6 @@
 http://210.210.155.35:80/qwr9ew/s/s07/01.m3u8
 #EXTINF:-1  tvg-name="ANTV #" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1200px-Antv_logo.svg.png" group-title="TV LOKAL",ANTV #
 http://rr2.dens.tv/s/s07/index3.m3u8
-#EXTINF:-1  tvg-name="GTV" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1200px-GTV_%282017%29.svg.png" group-title="TV LOKAL",GTV
-http://syarman.xyz/NATIONAL/GTV.m3u8
 #EXTINF:-1  tvg-name="GTV #" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1200px-GTV_%282017%29.svg.png" group-title="TV LOKAL",GTV
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 #EXTINF:-1  tvg-name="INDOSIAR" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="TV LOKAL",INDOSIAR
@@ -14,26 +12,19 @@ http://210.210.155.35/session/9daf4816-dff4-11ec-8d27-c81f66f89318/qwr9ew/s/s04/
 http://playlist.urfan.web.id/qwr9ew/s/s04/01.m3u8
 #EXTINF:-1  tvg-name="KOMPAS TV" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/7/7a/20190116042347%21KOMPAS_TV_%282017%29.png" group-title="TV LOKAL",KOMPAS TV
 http://210.210.155.35:80/qwr9ew/s/s104/02.m3u8
-#EXTINF:-1  tvg-name="KOMPAS TV #" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/7/7a/20190116042347%21KOMPAS_TV_%282017%29.png" group-title="TV LOKAL",KOMPAS TV #
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=51ef186e18dc00c2d31982567235c559446503011668def857b1c03bafabba51
 #EXTINF:-1  tvg-name="METRO TV" tvg-id="" tvg-logo="https://img2.pngdownload.id/20180717/hje/kisspng-metrotv-indonesia-television-channel-news-metro-city-5b4de3eb174850.2943747815318312750954.jpg" group-title="TV LOKAL",METRO TV
 http://rr.dens.tv/h/h12/index.m3u8
 #EXTINF:-1  tvg-name="METRO TV #" tvg-id="" tvg-logo="https://img2.pngdownload.id/20180717/hje/kisspng-metrotv-indonesia-television-channel-news-metro-city-5b4de3eb174850.2943747815318312750954.jpg" group-title="TV LOKAL",METRO TV #
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
-#EXTINF:-1  tvg-name="METRO TV ##" tvg-id="" tvg-logo="https://img2.pngdownload.id/20180717/hje/kisspng-metrotv-indonesia-television-channel-news-metro-city-5b4de3eb174850.2943747815318312750954.jpg" group-title="TV LOKAL",METRO TV ##
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.youtube.com/c/MetrotvnewsOfficial/live
-#EXTINF:-1  tvg-name="MNC TV" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="TV LOKAL",MNC TV
-http://syarman.xyz/NATIONAL/MNCTV.m3u8
+
+
 #EXTINF:-1  tvg-name="MNC TV #" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="TV LOKAL",MNC TV #
 https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 #EXTINF:-1  tvg-name="NET TV" tvg-id="" tvg-logo="https://www.sapibagus.com/wp-content/uploads/2015/11/logo-Net-tv.png" group-title="TV LOKAL",NET TV
 http://210.210.155.37/qwr9ew/s/s08/index.m3u8
 #EXTINF:-1  tvg-name="NET TV #" tvg-id="" tvg-logo="https://www.sapibagus.com/wp-content/uploads/2015/11/logo-Net-tv.png" group-title="TV LOKAL",NET TV #
 http://rr2.dens.tv/s/s08/index10.m3u8
-#EXTINF:-1  tvg-name="RCTI" tvg-id="" tvg-logo="https://img2.pngdownload.id/20180606/sq/kisspng-rcti-logo-streaming-media-television-media-nusanta-televisi-indonesia-5b183f759dc581.1376201515283157656462.jpg" group-title="TV LOKAL",RCTI
-http://syarman.xyz/NATIONAL/RCTI.m3u8
-#EXTINF:-1  tvg-name="RCTI #" tvg-id="" tvg-logo="https://img2.pngdownload.id/20180606/sq/kisspng-rcti-logo-streaming-media-television-media-nusanta-televisi-indonesia-5b183f759dc581.1376201515283157656462.jpg" group-title="TV LOKAL",RCTI #
-https://d35d0ifx19oopq.cloudfront.net/RCTI_2021.m3u8
+
 #EXTINF:-1  tvg-name="SCTV" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1280px-SCTV_Logo.svg.png" group-title="TV LOKAL",SCTV
 http://210.210.155.35/qwr9ew/s/s03/01.m3u8
 #EXTINF:-1  tvg-name="SCTV #" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1280px-SCTV_Logo.svg.png" group-title="TV LOKAL",SCTV #
@@ -44,12 +35,8 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 http://210.210.155.37/uq2663/h/h11/index.m3u8
 #EXTINF:-1  tvg-name="TRANS TV" tvg-id="" tvg-logo="https://1.bp.blogspot.com/-Zw8oUmxnVuc/YILzpTfoolI/AAAAAAAACmw/dQ8h_hkVDJAbp_JL0RKZBS-igZGrsRymwCNcBGAsYHQ/s2048/Trans%2BTV.png" group-title="TV LOKAL",TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-#EXTINF:-1  tvg-name="TRANS TV #" tvg-id="" tvg-logo="https://1.bp.blogspot.com/-Zw8oUmxnVuc/YILzpTfoolI/AAAAAAAACmw/dQ8h_hkVDJAbp_JL0RKZBS-igZGrsRymwCNcBGAsYHQ/s2048/Trans%2BTV.png" group-title="TV LOKAL",TRANS TV #
-https://liveanevia.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
-#EXTINF:-1  tvg-name="TV ONE" tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/809/244/png-transparent-tvone-television-batu-logo-streaming-media-others.png" group-title="TV LOKAL",TV ONE
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/c/tvOneNews/live
-#EXTINF:-1  tvg-name="TV ONE #" tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/809/244/png-transparent-tvone-television-batu-logo-streaming-media-others.png" group-title="TV LOKAL",TV ONE #
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6e0721b2c6977135b916ef286bcb49ec446503011668def857b1c03bafabba51
+
+
 #EXTINF:-1  tvg-name="TVRI" tvg-id="" tvg-logo="https://koranindonesia.id/asset/2020/05/tvri.png" group-title="TV LOKAL",TVRI
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 #EXTINF:-1  tvg-name="TVRI #" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/TVRI_World_Logo_2021_Variant.png/revision/latest?cb=20220222092300" group-title="TV LOKAL",TVRI #
