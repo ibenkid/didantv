@@ -20,6 +20,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-4
 
 #EXTINF:-1  tvg-name="MNC TV #" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="TV LOKAL",MNC TV #
 https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+
 #EXTINF:-1  tvg-name="NET TV" tvg-id="" tvg-logo="https://www.sapibagus.com/wp-content/uploads/2015/11/logo-Net-tv.png" group-title="TV LOKAL",NET TV
 http://210.210.155.37/qwr9ew/s/s08/index.m3u8
 
@@ -45,7 +46,7 @@ https://list.iptvcat.com/my_list/s/2f7d5092bc09035ff0c77eacd7719f5d.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_116.jpg",NET TV
-https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+http://210.210.155.37/qwr9ew/s/s08/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
