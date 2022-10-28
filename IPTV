@@ -1,78 +1,4 @@
-#EXTM3U
 
-
-#EXTINF:-1  tvg-name="ANTV" tvg-id="" tvg-logo="https://i.imgur.com/4B6BECK.jpg" group-title="TV LOKAL" :http-referrer="",ANTV
-http://210.210.155.35:80/qwr9ew/s/s07/01.m3u8
-
-#EXTINF:-1  tvg-name="ANTV #" tvg-id="" tvg-logo="https://i.imgur.com/4B6BECK.jpg" group-title="TV LOKAL" :http-referrer="",ANTV #
-http://rr2.dens.tv/s/s07/index3.m3u8
-
-#EXTINF:-1  tvg-name="GTV" tvg-id="" tvg-logo="https://i.imgur.com/y9EL3Zi.jpg" group-title="TV LOKAL" :http-referrer="https://www.rctiplus.com/",GTV
-
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://d322b885qvsbxg.cloudfront.net/GTV2021.m3u8
-
-
-
-#EXTINF:-1  tvg-name="INDOSIAR" tvg-id="" tvg-logo="https://i.imgur.com/si1SO98.jpg" group-title="TV LOKAL" :http-referrer="",INDOSIAR
-http://tvn.x10.mx/1/master-11.m3u8?dl%5Cu003d1
-
-#EXTINF:-1  tvg-name="INDOSIAR #" tvg-id="" tvg-logo="https://i.imgur.com/si1SO98.jpg" group-title="TV LOKAL" :http-referrer="",INDOSIAR #
-http://210.210.155.35/session/9daf4816-dff4-11ec-8d27-c81f66f89318/qwr9ew/s/s04/02.m3u8
-
-#EXTINF:-1  tvg-name="KOMPAS TV" tvg-id="" tvg-logo="https://i.imgur.com/lFQ7B47.jpg" group-title="TV LOKAL" :http-referrer="",KOMPAS TV
-https://video.jixie.media/live-test/kompastv.m3u8
-
-#EXTINF:-1  tvg-name="KOMPAS TV #" tvg-id="" tvg-logo="https://i.imgur.com/lFQ7B47.jpg" group-title="TV LOKAL" :http-referrer="",KOMPAS TV #
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
-
-#EXTINF:-1  tvg-name="METRO TV" tvg-id="" tvg-logo="https://i.imgur.com/MimdIJv.jpg" group-title="TV LOKAL" :http-referrer="",METRO TV
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
-
-#EXTINF:-1  tvg-name="METRO TV #" tvg-id="" tvg-logo="https://i.imgur.com/MimdIJv.jpg" group-title="TV LOKAL" :http-referrer="",METRO TV #
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
-
-#EXTINF:-1  tvg-name="MNC TV" tvg-id="" tvg-logo="https://i.imgur.com/MIwOP2Q.jpg" group-title="TV LOKAL" :http-referrer="https://www.rctiplus.com/",MNC TV
-
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://d33j155pv2xyba.cloudfront.net/MNCTV_2021.m3u8
-
-
-#EXTINF:-1  tvg-name="NET TV" tvg-id="" tvg-logo="https://i.imgur.com/4UiQRvV.jpg" group-title="TV LOKAL" :http-referrer="",NET TV
-http://210.210.155.37/qwr9ew/s/s08/index.m3u8
-
-#EXTINF:-1  tvg-name="NET TV #" tvg-id="" tvg-logo="https://i.imgur.com/4UiQRvV.jpg" group-title="TV LOKAL" :http-referrer="",NET TV #
-http://rr2.dens.tv/s/s08/index10.m3u8
-
-#EXTINF:-1  tvg-name="RCTI" tvg-id="" tvg-logo="https://i.imgur.com/toh1Vmf.jpg" group-title="TV LOKAL" :http-referrer="https://www.rctiplus.com/",RCTI
-
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://d35d0ifx19oopq.cloudfront.net/RCTI_2021.m3u8
-
-
-#EXTINF:-1  tvg-name="SCTV" tvg-id="" tvg-logo="https://i.imgur.com/yvgbxTz.png" group-title="TV LOKAL" :http-referrer="",SCTV
-http://tvn.x10.mx/1/master-12.m3u8?dl=1
-
-#EXTINF:-1  tvg-name="SCTV #" tvg-id="" tvg-logo="https://i.imgur.com/yvgbxTz.png" group-title="TV LOKAL" :http-referrer="",SCTV #
-http://210.210.155.35/qwr9ew/s/s03/01.m3u8
-
-#EXTINF:-1  tvg-name="TRANS 7" tvg-id="" tvg-logo="https://i.imgur.com/VbGEFPD.jpg" group-title="TV LOKAL" :http-referrer="",TRANS 7
-https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
-
-#EXTINF:-1  tvg-name="TRANS 7 #" tvg-id="" tvg-logo="https://i.imgur.com/VbGEFPD.jpg" group-title="TV LOKAL" :http-referrer="",TRANS 7 #
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
-
-#EXTINF:-1  tvg-name="TRANS TV" tvg-id="" tvg-logo="https://i.imgur.com/V6XOrog.jpg" group-title="TV LOKAL" :http-referrer="",TRANS TV
-https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
-
-#EXTINF:-1  tvg-name="TRANS TV #" tvg-id="" tvg-logo="https://i.imgur.com/V6XOrog.jpg" group-title="TV LOKAL" :http-referrer="",TRANS TV #
-http://rr2.dens.tv/s/s05/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Trans_TV
-
-#EXTINF:-1  tvg-name="TV ONE" tvg-id="" tvg-logo="https://i.imgur.com/klfdCep.jpg" group-title="TV LOKAL" :http-referrer="",TV ONE
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/c/tvOneNews/live
-
-#EXTINF:-1  tvg-name="TV ONE #" tvg-id="" tvg-logo="https://i.imgur.com/klfdCep.jpg" group-title="TV LOKAL" :http-referrer="",TV ONE #
-https://stream-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
 #**********************************LOKAL*****************************************************
 
@@ -92,7 +18,8 @@ https://liveanevia.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png",TVOne
-https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
+#https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/c/tvOneNews/live
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -160,7 +87,8 @@ https://m3u-editor.com/serve/ecc922e0-1661-11ed-899e-e52689d248ef/611517895
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_106.png",Kompas TV
-https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
+#https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
+https://video.jixie.media/live-test/kompastv.m3u8
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn_id.png",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
