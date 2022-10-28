@@ -8,11 +8,6 @@ http://rr2.dens.tv/s/s07/index3.m3u8
 #EXTINF:-1  tvg-name="GTV" tvg-id="" tvg-logo="https://i.imgur.com/y9EL3Zi.jpg" group-title="TV LOKAL",GTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/https://d322b885qvsbxg.cloudfront.net/GTV2021.m3u8
 
-
-
-
-
-
 #EXTINF:-1  tvg-name="INDOSIAR" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="TV LOKAL",INDOSIAR
 http://210.210.155.35/session/9daf4816-dff4-11ec-8d27-c81f66f89318/qwr9ew/s/s04/02.m3u8
 #EXTINF:-1  tvg-name="INDOSIAR #" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="TV LOKAL",INDOSIAR #
