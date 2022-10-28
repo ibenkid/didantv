@@ -6,14 +6,13 @@ http://210.210.155.35:80/qwr9ew/s/s07/01.m3u8
 
 #EXTINF:-1  tvg-name="ANTV #" tvg-id="" tvg-logo="https://i.imgur.com/4B6BECK.jpg" group-title="TV LOKAL" :http-referrer="",ANTV #
 http://rr2.dens.tv/s/s07/index3.m3u8
-\
+
 #EXTINF:-1  tvg-name="GTV" tvg-id="" tvg-logo="https://i.imgur.com/y9EL3Zi.jpg" group-title="TV LOKAL" :http-referrer="https://www.rctiplus.com/",GTV
 
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://d322b885qvsbxg.cloudfront.net/GTV2021.m3u8
 
-#EXTINF:-1  tvg-name="GTV #" tvg-id="" tvg-logo="https://i.imgur.com/y9EL3Zi.jpg" group-title="TV LOKAL" :http-referrer="",GTV #
-https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+
 
 #EXTINF:-1  tvg-name="INDOSIAR" tvg-id="" tvg-logo="https://i.imgur.com/si1SO98.jpg" group-title="TV LOKAL" :http-referrer="",INDOSIAR
 http://tvn.x10.mx/1/master-11.m3u8?dl%5Cu003d1
@@ -38,8 +37,6 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://d33j155pv2xyba.cloudfront.net/MNCTV_2021.m3u8
 
-#EXTINF:-1  tvg-name="MNC TV #" tvg-id="" tvg-logo="https://i.imgur.com/MIwOP2Q.jpg" group-title="TV LOKAL" :http-referrer="",MNC TV #
-https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1  tvg-name="NET TV" tvg-id="" tvg-logo="https://i.imgur.com/4UiQRvV.jpg" group-title="TV LOKAL" :http-referrer="",NET TV
 http://210.210.155.37/qwr9ew/s/s08/index.m3u8
@@ -52,8 +49,6 @@ http://rr2.dens.tv/s/s08/index10.m3u8
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://d35d0ifx19oopq.cloudfront.net/RCTI_2021.m3u8
 
-#EXTINF:-1  tvg-name="RCTI #" tvg-id="" tvg-logo="https://i.imgur.com/toh1Vmf.jpg" group-title="TV LOKAL" :http-referrer="",RCTI #
-https://stream-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #EXTINF:-1  tvg-name="SCTV" tvg-id="" tvg-logo="https://i.imgur.com/yvgbxTz.png" group-title="TV LOKAL" :http-referrer="",SCTV
 http://tvn.x10.mx/1/master-12.m3u8?dl=1
