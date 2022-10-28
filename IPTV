@@ -1,13 +1,9 @@
-
-#EXTINF:-1  tvg-name="GTV" tvg-id="" tvg-logo="https://i.imgur.com/y9EL3Zi.jpg" group-title="TV LOKAL" :http-referrer="https://www.rctiplus.com/",GTV
-https://d322b885qvsbxg.cloudfront.net/GTV2021.m3u8
-
 #EXTINF:-1  tvg-name="ANTV" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1200px-Antv_logo.svg.png" group-title="TV LOKAL",ANTV
 http://210.210.155.35:80/qwr9ew/s/s07/01.m3u8
 #EXTINF:-1  tvg-name="ANTV #" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1200px-Antv_logo.svg.png" group-title="TV LOKAL",ANTV #
 http://rr2.dens.tv/s/s07/index3.m3u8
 #EXTINF:-1  tvg-name="GTV #" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1200px-GTV_%282017%29.svg.png" group-title="TV LOKAL",GTV
-https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+https://d322b885qvsbxg.cloudfront.net/GTV2021.m3u8
 #EXTINF:-1  tvg-name="INDOSIAR" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="TV LOKAL",INDOSIAR
 http://210.210.155.35/session/9daf4816-dff4-11ec-8d27-c81f66f89318/qwr9ew/s/s04/02.m3u8
 #EXTINF:-1  tvg-name="INDOSIAR #" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="TV LOKAL",INDOSIAR #
