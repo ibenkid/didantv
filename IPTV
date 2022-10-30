@@ -79,14 +79,13 @@ http://rr2.dens.tv/s/s07/index.m3u8
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/metro_tv.png",Metro TV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=f1c1592588411002af340cbaedd6fc33446503011668def857b1c03bafabba51
 
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/dZFDNGdlbnYSp4PG1BCcx-UnjkiUlTuyrlURTFRKtLagdQc7d_kDNh2iAxQb9rwzbPbZm7FUztXQxM3zV8tPcDq0unUcCKLCQ7AL=w360-h684-rw-sm-pa-nu-v0" group-title="LOKAL", Berita Satu
-https://m3u-editor.com/serve/ecc922e0-1661-11ed-899e-e52689d248ef/611517895
+#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/dZFDNGdlbnYSp4PG1BCcx-UnjkiUlTuyrlURTFRKtLagdQc7d_kDNh2iAxQb9rwzbPbZm7FUztXQxM3zV8tPcDq0unUcCKLCQ7AL=w360-h684-rw-sm-pa-nu-v0" group-title="UnjkiUlTuyrlURTFRKtLagdQc7d_kDNh2iAxQb9rwzbPbZm7FUztXQxM3zV8tPcDq0unUcCKLCQ7ALLOKAL", Berita Satu
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_106.png",Kompas TV
-#https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
-https://video.jixie.media/live-test/kompastv.m3u8
+http://playlist.urfan.web.id/qwr9ew/s/s104/01.m3u8
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn_id.png",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
@@ -214,6 +213,7 @@ https://liveanevia.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/celestial.png",Celestial Movies Indonesia
 #https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 http://210.210.155.35/session/5bf247f6-7a97-11ec-8b65-b82a72d63267/dr9445/h/h14/index.m3u8
+#http://playlist.urfan.web.id/dr9445/h/h14/01.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -231,6 +231,9 @@ https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/KIX_LOGO_150x150.jpg",KIX
 #https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 http://210.210.155.35/session/2e0a198c-dd98-11eb-a5a6-c81f66f89318/dr9445/h/h07/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES",KIXASIA
+http://playlist.urfan.web.id/dr9445/h/h07/01.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -260,6 +263,7 @@ http://210.210.155.35/session/1c3b9f90-7a97-11ec-8b65-b82a72d63267/dr9445/h/h04/
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_169.png",HITS Movies
 #https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 http://210.210.155.37/dr9445/h/h37/index.m3u8
+#http://playlist.urfan.web.id/dr9445/h/h37/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -355,6 +359,11 @@ https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremiu
 
 
 ##########################ENTERTAINMENT##########################
+
+#EXTINF:-1 group-title="ENTERTAINMENT",ROCKENTERTAINMENT
+http://playlist.urfan.web.id/dr9445/h/h16/01.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT",ROCKEXTREME
+http://playlist.urfan.web.id/dr9445/h/h15/01.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
