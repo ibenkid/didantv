@@ -22,11 +22,13 @@ http://fancytv.ddns.net:25461/fancynet/fancytv/1758
 
 #EXTINF:-1  tvg-name="NET TV" tvg-id="" tvg-logo="https://www.sapibagus.com/wp-content/uploads/2015/11/logo-Net-tv.png" group-title="LOKAL",NET TV
 http://210.210.155.37/qwr9ew/s/s08/index.m3u8
+#https://stream.semeru.plus:443/play/xYwQFS4CS3f0_OVZgPj9wY7A4WZNAmtBhxtRhBiQMbQ/ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png",TVOne
-http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
+#http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
+https://stream.semeru.plus:443/play/xYwQFS4CS3f0_OVZgPj9wZlpzRDcj_S5oNcnK2f6Z-s/ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -68,21 +70,24 @@ http://nonton.wap.sh/id/009.m3u8
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png",Trans TV
 #https://liveanevia.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 #https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-https://m3u-editor.com/serve/ecc922e0-1661-11ed-899e-e52689d248ef/611517900
+#https://m3u-editor.com/serve/ecc922e0-1661-11ed-899e-e52689d248ef/611517900
+https://stream.semeru.plus:443/play/xYwQFS4CS3f0_OVZgPj9wY3HM-qybNNLUB_xqRJSaH0/ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png",Trans 7
 #https://liveanevia.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #https://m3u-editor.com/serve/ecc922e0-1661-11ed-899e-e52689d248ef/611517901
 #https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
+https://stream.semeru.plus:443/play/xYwQFS4CS3f0_OVZgPj9wfhF7UIga6kJoGpt4uayED4/ts
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png",Rajawali TV
-https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+#https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+https://stream.semeru.plus:443/play/xYwQFS4CS3f0_OVZgPj9wXxjvheB6gmrMxHQB3Xl1ZI/ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -92,7 +97,8 @@ http://rr2.dens.tv/s/s07/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/metro_tv.png",Metro TV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
+#http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
+https://stream.semeru.plus:443/play/xYwQFS4CS3f0_OVZgPj9wYkW-hf6oEw5itIdGhXK5o8/ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -178,7 +184,8 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_14.png",IMC
-https://liveanevia.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
+#https://liveanevia.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
+https://stream.semeru.plus:443/play/xYwQFS4CS3f0_OVZgPj9wQQn7PGyrn93wfOzLRWtMzg/ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -614,6 +621,9 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w987955597.m3u8
 
 ##########################SPORTS##########################
 
+#EXTINF:-1 xui-id="603" tvg-id="TENISHD" tvg-name="Tennis Channel" tvg-logo="https://i.ibb.co/pb1Xbtp/TENNISCHANNEL.png" group-title="SPORTS",Tennis Channel
+https://stream.semeru.plus:443/play/xYwQFS4CS3f0_OVZgPj9wVD0b6wJ8sBmgIMUwdgzrb0/ts
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-1.jpg",BeIn Sports 1 Indonesia
@@ -661,6 +671,9 @@ https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel
 
 
 ##########################RELIGI##########################
+
+#EXTINF:-1 xui-id="1344" tvg-id="RodjaTV.id" tvg-name="Rodja TV" tvg-logo="https://i.ibb.co/d7Qn5tH/RODJATV.png" group-title="RELIGI",Rodja TV
+https://stream.semeru.plus:443/play/xYwQFS4CS3f0_OVZgPj9wanMA-TRvCpcdME1oYDnq8I/ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
