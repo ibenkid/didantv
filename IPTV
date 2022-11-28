@@ -668,7 +668,8 @@ https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel
 ##########################RELIGI##########################
 
 #EXTINF:-1 xui-id="1344" tvg-id="RodjaTV.id" tvg-name="Rodja TV" tvg-logo="https://i.ibb.co/d7Qn5tH/RODJATV.png" group-title="RELIGI",Rodja TV
-https://stream.semeru.plus:443/play/xYwQFS4CS3f0_OVZgPj9wanMA-TRvCpcdME1oYDnq8I/ts
+#https://stream.semeru.plus:443/play/xYwQFS4CS3f0_OVZgPj9wanMA-TRvCpcdME1oYDnq8I/ts
+http://210.210.155.35:80/qwr9ew/s/s14/01.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
