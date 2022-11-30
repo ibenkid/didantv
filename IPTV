@@ -208,6 +208,10 @@ https://liveaneviadev.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 #EXTINF:-1  tvg-name="IMC" tvg-id="" tvg-logo="https://i.imgur.com/GIi53P3.jpg" group-title="MOVIES" :http-referrer="",IMC
 https://liveaneviadev.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1  tvg-name="WARNER TV" tvg-id="" tvg-logo="https://i.imgur.com/7rbSNWp.jpg" group-title="MOVIES" :http-referrer="",WARNER TV
+https://liveaneviadev.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 
 #EXTINF:-1 tvg-id="UseePrime.id" tvg-logo="https://i.imgur.com/fXc15Jf.png" group-title="MOVIES",Usee Prime (720p)
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
@@ -285,6 +289,20 @@ http://rr1.dens.tv/h/h37/index.m3u8
 
 
 
+#======== TV RELIGI ========#
+
+#EXTINF:-1  tvg-name="MAKKAH QURAN" tvg-id="" tvg-logo="https://i.imgur.com/tFEQ4da.png" group-title="TV RELIGI" :http-referrer="",MAKKAH QURAN
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
+#EXTINF:-1  tvg-name="MAKKAH QURAN 2" tvg-id="" tvg-logo="https://i.imgur.com/tFEQ4da.png" group-title="TV RELIGI" :http-referrer="",MAKKAH QURAN 2
+https://edge.taghtia.com/sa/7.m3u8
+#EXTINF:-1  tvg-name="MEDINA TV" tvg-id="" tvg-logo="https://i.imgur.com/xq2Hx7a.png" group-title="TV RELIGI" :http-referrer="",MEDINA TV
+http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+#EXTINF:-1  tvg-name="MEDINA TV 2" tvg-id="" tvg-logo="https://i.imgur.com/xq2Hx7a.png" group-title="TV RELIGI" :http-referrer="",MEDINA TV 2
+http://cineapp.org:8000/Fernando/Fernando/9745
+
+#EXTINF:-1 xui-id="1344" tvg-id="RodjaTV.id" tvg-name="Rodja TV" tvg-logo="https://i.ibb.co/d7Qn5tH/RODJATV.png" group-title="TV RELIGI",Rodja TV
+#https://stream.semeru.plus:443/play/xYwQFS4CS3f0_OVZgPj9wanMA-TRvCpcdME1oYDnq8I/ts
+http://210.210.155.35:80/qwr9ew/s/s14/01.m3u8
 
 ##########################NEWS##########################
 
@@ -380,10 +398,6 @@ https://stream.semeru.plus:443/play/xYwQFS4CS3f0_OVZgPj9wVD0b6wJ8sBmgIMUwdgzrb0/
 
 
 ##########################RELIGI##########################
-
-#EXTINF:-1 xui-id="1344" tvg-id="RodjaTV.id" tvg-name="Rodja TV" tvg-logo="https://i.ibb.co/d7Qn5tH/RODJATV.png" group-title="RELIGI",Rodja TV
-#https://stream.semeru.plus:443/play/xYwQFS4CS3f0_OVZgPj9wanMA-TRvCpcdME1oYDnq8I/ts
-http://210.210.155.35:80/qwr9ew/s/s14/01.m3u8
 
 
 ##########################TVRI##########################
