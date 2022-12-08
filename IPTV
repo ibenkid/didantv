@@ -35,8 +35,7 @@ https://liveaneviadev.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png" group-title="LOKAL", Indosiar
 #http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
 #http://210.210.155.37/qwr9ew/s/s04/index.m3u8
-#http://tvn.x10.mx/1/master-11.m3u8?dl%5Cu003d1
-https://k.ksa.my.id/ksa.m3u8?a=11c29c48146372ad4d14&b=204991a99793a98926d2&c=8f5ffddd6e9165aa1117
+https://m3u-editor.com/serve/e26b0220-4172-11ec-a77d-6f3f9638e1ee/421844332
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_sctv_small1.png" group-title="LOKAL", SCTV
 #http://tvn.x10.mx/1/master-12.m3u8?dl=1
