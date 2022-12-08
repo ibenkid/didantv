@@ -1,13 +1,6 @@
 
 #EXTM3U
 
-#EXTINF:-1  tvg-name="WC 6" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",world cup 2022 1
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43852
-#EXTINF:-1  tvg-name="WC 7" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",world cup 2022 2
-http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/16
-#EXTINF:-1  tvg-name="WC 15" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",world cup 2022 3
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43853
-
 #**********************************LOKAL*****************************************************
 
 #EXTINF:-1  tvg-name="NET TV" tvg-id="" tvg-logo="https://www.sapibagus.com/wp-content/uploads/2015/11/logo-Net-tv.png" group-title="LOKAL",NET TV
