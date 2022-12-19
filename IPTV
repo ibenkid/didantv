@@ -3,29 +3,6 @@
 
 #**********************************LOKAL*****************************************************
 
-#EXTINF:-1  tvg-name="WC 01" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",Piala Dunia 01
-http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/27
-#EXTINF:-1  tvg-name="WC 02" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",Piala Dunia 02
-http://2015.surf:8080/qwiyJT4YBH/lBcCDVscVm/331
-#EXTINF:-1  tvg-name="WC 03" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",Piala Dunia  03
-http://2015.surf:8080/qwiyJT4YBH/lBcCDVscVm/572
-#EXTINF:-1  tvg-name="WC 04" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",Piala Dunia  04
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/3334
-#EXTINF:-1  tvg-name="WC 05" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",Piala Dunia  05
-http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/16
-#EXTINF:-1  tvg-name="WC 06" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",Piala Dunia  06
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43852
-#EXTINF:-1  tvg-name="WC 07" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",Piala Dunia  07
-http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/2151.ts
-#EXTINF:-1  tvg-name="WC 08" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",Piala Dunia  08
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/29359
-#EXTINF:-1  tvg-name="WC 09" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",Piala Dunia  09
-http://playhdnew85.xyz:8080/geriHiOeu4sekxxxxx211/geriHiOeu4/369
-#EXTINF:-1  tvg-name="WC 10" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",Piala Dunia  10
-http://playhdnew85.xyz:8080/geriHiOeu4sekxxxxx211/geriHiOeu4/368
-#EXTINF:-1  tvg-name="WC 11" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",Piala Dunia  11
-http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/142
-
 
 #EXTINF:-1  tvg-name="NET TV" tvg-id="" tvg-logo="https://www.sapibagus.com/wp-content/uploads/2015/11/logo-Net-tv.png" group-title="LOKAL",NET TV
 http://210.210.155.37/qwr9ew/s/s08/index.m3u8
