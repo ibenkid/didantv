@@ -63,8 +63,8 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png",Rajawali TV
-#https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
-https://stream.semeru.plus:443/play/xYwQFS4CS3f0_OVZgPj9wXxjvheB6gmrMxHQB3Xl1ZI/ts
+https://liveaneviadev.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -75,7 +75,7 @@ https://av-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/metro_tv.png",Metro TV
 #http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
-https://stream.semeru.plus:443/play/xYwQFS4CS3f0_OVZgPj9wYkW-hf6oEw5itIdGhXK5o8/ts
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -129,7 +129,7 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_14.png",IMC
 #https://liveanevia.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
-https://stream.semeru.plus:443/play/xYwQFS4CS3f0_OVZgPj9wQQn7PGyrn93wfOzLRWtMzg/ts
+https://liveaneviadev.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -175,11 +175,6 @@ https://liveaneviadev.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1  tvg-name="HITS MOVIES" tvg-id="" tvg-logo="https://i.imgur.com/bBR1oht.jpg" group-title=MOVIES" :http-referrer="",HITS MOVIES
 https://liveaneviadev.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1  tvg-name="IMC" tvg-id="" tvg-logo="https://i.imgur.com/GIi53P3.jpg" group-title="MOVIES" :http-referrer="",IMC
-https://liveaneviadev.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -273,9 +268,6 @@ http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 #EXTINF:-1  tvg-name="MEDINA TV 2" tvg-id="" tvg-logo="https://i.imgur.com/xq2Hx7a.png" group-title="TV RELIGI" :http-referrer="",MEDINA TV 2
 http://cineapp.org:8000/Fernando/Fernando/9745
 
-#EXTINF:-1 xui-id="1344" tvg-id="RodjaTV.id" tvg-name="Rodja TV" tvg-logo="https://i.ibb.co/d7Qn5tH/RODJATV.png" group-title="TV RELIGI",Rodja TV
-#https://stream.semeru.plus:443/play/xYwQFS4CS3f0_OVZgPj9wanMA-TRvCpcdME1oYDnq8I/ts
-http://210.210.155.35:80/qwr9ew/s/s14/01.m3u8
 
 ##########################NEWS##########################
 
@@ -365,10 +357,6 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w987955597.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://epg.it999.ru/img/151.png" ,Bridge TV
 
 ##########################SPORTS##########################
-
-#EXTINF:-1 xui-id="603" tvg-id="TENISHD" tvg-name="Tennis Channel" tvg-logo="https://i.ibb.co/pb1Xbtp/TENNISCHANNEL.png" group-title="SPORTS",Tennis Channel
-https://stream.semeru.plus:443/play/xYwQFS4CS3f0_OVZgPj9wVD0b6wJ8sBmgIMUwdgzrb0/ts
-
 
 ##########################RELIGI##########################
 
