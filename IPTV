@@ -4,7 +4,7 @@
 #**********************************LOKAL*****************************************************
 
 #EXTINF:-1  tvg-name="NET TV" tvg-id="" tvg-logo="https://www.sapibagus.com/wp-content/uploads/2015/11/logo-Net-tv.png" group-title="LOKAL",NET TV
-http://210.210.155.37/qwr9ew/s/s08/index.m3u8
+http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 #https://stream.semeru.plus:443/play/xYwQFS4CS3f0_OVZgPj9wY7A4WZNAmtBhxtRhBiQMbQ/ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -123,7 +123,7 @@ http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="ID: Etv Bioskop" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Didan",ID: Etv Bioskop (K*)
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298526
 #EXTINF:-1 tvg-name="ID: Etv Bioskop 02" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Didan",ID: Etv Bioskop 02 (K*)
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298527
+https://stream.semeru.plus:443/play/xYwQFS4CS3f0_OVZgPj9wY7A4WZNAmtBhxtRhBiQMbQ/ts
 #EXTINF:-1 tvg-name="ID: Etv Bioskop 03" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Didan",ID: Etv Bioskop 03 (K*)
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298528
 #EXTINF:-1 tvg-name="ID: Etv Bioskop 04" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Didan",ID: Etv Bioskop 04 (K*)
