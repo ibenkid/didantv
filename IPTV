@@ -39,12 +39,6 @@ http://210.210.155.37/qwr9ew/s/s04/index.m3u8
 #http://tvn.x10.mx/1/master-12.m3u8?dl=1
 http://nonton.wap.sh/id/009.m3u8
 
-#EXTINF:-1 group-title="LOKAL" tvg-logo="",MENTARI HD
-http://103.166.27.2:800/play/a018
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="LOKAL",Moji
-http://210.210.155.35/qwr9ew/s/s41/01.m3u8
-
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2020/08/08/873008581.jpg",Trans7
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
