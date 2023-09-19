@@ -2,17 +2,8 @@
 #EXTM3U
 
 ##**********************************LOKAL*****************************************************
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="LOKAL" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501626_tvchannels_v1.jpg", NET.
-http://210.210.155.35/qwr9ew/s/s08/index10.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=NET.
-
-#EXTINF:-1 tvg-id="net" tvg-logo="https://i.postimg.cc/FR15Z0tj/net.png" group-title="LOKAL",NET HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://nxanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501626_tvchannels_v1.jpg" group-title="LOKAL",NET.
+http://210.210.155.37/session/5c875006-cd6d-11ed-b1c0-b82a72d63267/uq2663/h/h06/01.m3u8
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png",TVOne
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
