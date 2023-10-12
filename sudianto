@@ -1,0 +1,1391 @@
+#EXTM3U
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="LIVE-EVENT",MOTOGP INDO
+
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD1_DIG_MOB/Fallback/index.m3u8
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="TV NASIONAL",INDOSIAR (I)
+
+https://cdnkbl5.indihometv.com/ateme/dash/indosiar/manifest.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="TV NASIONAL",SCTV (I)
+
+https://cdnkbl4.indihometv.com/ateme/dash/sctv/manifest.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="TV NASIONAL",INDOSIAR (F)
+
+http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="TV NASIONAL",SCTV (F)
+
+http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="TV NASIONAL",MOJI (F)
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch26)/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="TV NASIONAL",ANTV
+
+http://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="TV NASIONAL",TVONE
+
+https://nyanv-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="TV NASIONAL",MNCTV (V+)
+
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="TV NASIONAL",GTV (V+)
+
+https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="TV NASIONAL",RCTI (V+)
+
+https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="TV NASIONAL",INEWS (V+)
+
+https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="TV NASIONAL",TRANS7
+
+https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="TV NASIONAL",TRANS TV
+
+https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
+
+#EXTINF:0 tvg-id="NetTV.hr" group-title="TV NASIONAL",NET
+
+https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+
+#EXTINF:0 tvg-id="rtvint" group-title="TV NASIONAL",RTV
+
+https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+
+#EXTINF:0 tvg-id="Metro.pl" group-title="TV NASIONAL",METRO TV
+
+https://nyanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="TV NASIONAL",KOMPAS TV
+
+https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="TV NASIONAL",BERITA SATU
+
+https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="TV NASIONAL",TVRI
+
+https://nyanv-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
+
+
+
+#EXTINF:0 tvg-id="HBOAdria.rs" group-title="Movies",HBO
+
+https://prot.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default.mpd
+
+#EXTINF:0 tvg-id="Hbofamily.br" group-title="Movies",HBO Family
+
+https://prot.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default.mpd
+
+#EXTINF:0 tvg-id="HBOHits.in" group-title="Movies",HBO Hits
+
+https://prot.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default.mpd
+
+#EXTINF:0 tvg-id="CinemaxO.mx" group-title="Movies",CINEMAX
+
+https://prot.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="Movies",BOO
+
+https://prot.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="Movies",Dunia Sinema
+
+https://unifi-live04.secureswiftcontent.com/UnifiHD/live27.mpd
+
+#EXTINF:0 tvg-id="Showcase.uk" group-title="Movies",Showcase
+
+https://prot.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="Movies",SIAR
+
+https://unifi-live04.secureswiftcontent.com/UnifiHD/live31.mpd
+
+#EXTINF:0 tvg-id="SonyPIX.in" group-title="Movies",Sony PIX
+
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+
+#EXTINF:0 tvg-id="ZeeCinema.in" group-title="Movies",Zee Cinema HD
+
+https://prot.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="Movies",Zee Bioskop
+
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
+
+#EXTINF:0 tvg-id="TVN.pl" group-title="Movies",TVN
+
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/tvN/sa_dash_vmx/tvN.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="Movies",HITS ID
+
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/HITS/sa_dash_vmx/HITS.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="Movies",HITS Movies ID
+
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="Movies",TVN Movies ID
+
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="Movies",Galaxy ID
+
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="Movies",Galaxy Premium ID
+
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="Movies",Celestial Classic Movies ID
+
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="Movies",Celestial Movies ID
+
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="Movies",Thrill ID
+
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="Movies",Cinema World ID
+
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="Movies",IMC
+
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="Movies",AXN ID
+
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/AXN/sa_dash_vmx/AXN.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="Movies",KIX ID
+
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/KIX/sa_dash_vmx/KIX.mpd
+
+#EXTINF:0 tvg-id="Paramount.es" group-title="Movies",Paramount Network
+
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="Movies",My Cinema Asia
+
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asia.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="Movies",My Cinema
+
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="Movies",My Family Channel
+
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="Movies",Cinemachi HD
+
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="Movies",Cinemachi Action
+
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="Movies",Cinemachi Max
+
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="Movies",Cinemachi Xtra
+
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="Movies",Cinemachi Kids
+
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="Movies",Rock Entertainment
+
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="Movies",Rock Action
+
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="Astro",Astro Oasis
+
+https://prot.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="Astro",Astro Premier
+
+https://prot.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="Astro",Astro Aura
+
+https://prot.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="Astro",Astro Rania
+
+https://prot.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="Astro",Astro Vaanavil
+
+https://prot.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="Astro",Astro Vellithirai
+
+https://prot.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="Astro",Astro AEC
+
+https://linear05-playback.sooka.my/CH4/masterCH4.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="Astro",Astro Hua Hee Dai
+
+https://prot.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="Astro",Astro QJ
+
+https://prot.iptvgo.workers.dev/https://linear05-playback.sooka.my/CH5/masterCH5.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="Astro",Astro Ceria
+
+https://prot.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default.mpd
+
+
+
+#EXTINF:0 tvg-id="nickelodeon-rus" group-title="ANAK",Nickelodeon
+
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
+
+#EXTINF:0 tvg-id="nick-jr" group-title="ANAK",Nick Jr
+
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="ANAK",MiaoMi
+
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
+
+#EXTINF:0 tvg-id="baby-tv" group-title="ANAK",Baby TV
+
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
+
+#EXTINF:0 tvg-id="CBeebies.uk" group-title="ANAK",CBeebies
+
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="ANAK",Kids TV
+
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
+
+#EXTINF:0 tvg-id="Dreamworks.es" group-title="ANAK",Dreamworks
+
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="ANAK",My Kidz
+
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd
+
+#EXTINF:0 tvg-id="Animax.de" group-title="ANAK",ANIMAX
+
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/Animax/sa_dash_vmx/Animax.mpd
+
+#EXTINF:0 tvg-id="Zoomoo.br" group-title="ANAK",ZooMoo
+
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/Zoomoo/sa_dash_vmx/Zoomoo.mpd
+
+#EXTINF:0 tvg-id="cartoon" group-title="ANAK",Cartoon Network
+
+https://prot.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/509/default.mpd
+
+
+
+#EXTINF:0 tvg-id="DiscoveryDMAX.uk" group-title="Entertainment",DMAX
+
+https://prot.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="Entertainment",iQIYI HD
+
+https://prot.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="Entertainment",K-Plus
+
+https://prot.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default.mpd
+
+
+
+#EXTINF:0 tvg-id="discov_rus" group-title="KNOWLEDGE",Discovery
+
+https://prot.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="KNOWLEDGE",Discovery Asia
+
+https://prot.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="KNOWLEDGE",NAT GEO WILD ID
+
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="KNOWLEDGE",NATIONAL GEOGRAPHIC ID
+
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="KNOWLEDGE",BBC EARTH ID
+
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
+
+#EXTINF:0 tvg-id="LoveNature" group-title="KNOWLEDGE",550 Love Nature
+
+https://prot.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="KNOWLEDGE",551 Global Trekker
+
+https://prot.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5094/default.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="KNOWLEDGE",556 Animal Planet
+
+https://prot.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default_primary.mpd
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS ASTRO",Astro Arena
+
+https://prot.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS ASTRO",Astro Arena 2
+
+https://prot.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS ASTRO",Astro Supersport 1
+
+https://m3.ballnaja.com/live/assp1/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS ASTRO",Astro Supersport 2
+
+https://m3.ballnaja.com/live/assp2/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS ASTRO",Astro Supersport 3
+
+https://m3.ballnaja.com/live/assp3/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS ASTRO",Astro Supersport 4
+
+https://prot.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS ASTRO",Astro Cricket
+
+https://prot.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default.mpd
+
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="SPORTS ASTRO",beIN Sports 1
+
+https://prot.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default.mpd
+
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="SPORTS ASTRO",beIN Sports 2
+
+https://prot.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default.mpd
+
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="SPORTS ASTRO",beIN Sports 3
+
+https://prot.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS ASTRO",beIN Sports Rugby
+
+https://prot.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5125/default.mpd
+
+#EXTINF:0 tvg-id="esp" group-title="SPORTS ASTRO",EuroSport
+
+https://prot.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default.mpd
+
+#EXTINF:0 tvg-id="GolfChannel.fr" group-title="SPORTS ASTRO",Golf Channel
+
+https://prot.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default.mpd
+
+#EXTINF:0 tvg-id="PremierSports.uk" group-title="SPORTS ASTRO",Premier Sports
+
+https://prot.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS ASTRO",SPOTV
+
+https://prot.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS ASTRO",SPOTV2
+
+https://prot.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS ASTRO",Sukan RTM
+
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd?id=1
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS ASTRO",Unifi Sports
+
+https://unifi-live04.secureswiftcontent.com/UnifiHD/live11.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS ASTRO",W-Sport
+
+https://prot.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default.mpd
+
+#EXTINF:0 tvg-id="WWE.ca" group-title="SPORTS ASTRO",WWE Network
+
+https://prot.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default.mpd
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS-V+",SportStars 1 HD
+
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS-V+",SportsStars 2 HD
+
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS-V+",SportsStars 3 HD
+
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS-V+",SportsStars 4 HD
+
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+
+#EXTINF:0 tvg-id="futbol" group-title="SPORTS-V+",Soccer Channel
+
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS-V+",SPOTV 1
+
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS-V+",SPOTV 2
+
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+
+#EXTINF:0 tvg-id="FightSports.svn" group-title="SPORTS-V+",FIGHT SPORTS
+
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",ON Sports
+
+https://prot.iptvgo.workers.dev/https://live2onsport.vtvcab.vn/onplus/THETHAO_HD/m30_index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",ON Sports+
+
+https://prot.iptvgo.workers.dev/https://live2onsport.vtvcab.vn/onplus/HAY_TV/m30_index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",ON Football
+
+https://prot.iptvgo.workers.dev/https://live2onsport.vtvcab.vn/onplus/BONGDA_HD/m30_index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",ON Sports News
+
+https://prot.iptvgo.workers.dev/https://live2onsport.vtvcab.vn/onplus/THETHAO_TINTUC_HD/m30_index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Bóng đá Việt
+
+https://prot.iptvgo.workers.dev/https://live2onsport.vtvcab.vn/onplus/ONVFFTV/m30_index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Thể thao Việt
+
+https://prot.iptvgo.workers.dev/https://live2onsport.vtvcab.vn/onplus/ONVOLLEYBALL/m30_index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",ON Sports Eng
+
+https://prot.iptvgo.workers.dev/https://live2onsport.vtvcab.vn/onplus/ONSPORTTA/m20_index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",ON Football Eng
+
+https://prot.iptvgo.workers.dev/https://live2onsport.vtvcab.vn/onplus/ONFOOTBALLTA/m30_index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",ON Sports News Eng
+
+https://prot.iptvgo.workers.dev/https://live2onsport.vtvcab.vn/onplus/ONSPORTNEWSTA/m30_index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",SCTV15
+
+https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV15.smil/chunklist.m3u8|Referer=http://sctvonline.vn/
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",SCTV17
+
+https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV17.smil/chunklist.m3u8|Referer=http://sctvonline.vn/
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",SCTV22
+
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/index.m3u8|Referer=http://sctvonline.vn/
+
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="SPORTS",Bein Sports 1
+
+https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-039/stream.mpd
+
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="SPORTS",Bein Sports 2
+
+https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-040/stream.mpd
+
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="SPORTS",Bein Sports 3
+
+https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-041/stream.mpd
+
+#EXTINF:0 tvg-id="DAZN1BarHD.de" group-title="SPORTS",Dazn 1 DE
+
+https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-017/stream.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Dazn 2 DE
+
+https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-018/stream.mpd
+
+#EXTINF:0 tvg-id="DAZN1.es" group-title="SPORTS",Dazn 1 ES
+
+https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-037/stream.mpd
+
+#EXTINF:0 tvg-id="DAZN2.es" group-title="SPORTS",Dazn 2 ES
+
+https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-038/stream.mpd
+
+#EXTINF:0 tvg-id="DAZN_F1.es" group-title="SPORTS",Dazn F1 ES
+
+https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-016/stream.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Eleven Sports 1 BE
+
+https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-048/stream.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Eleven Pro League 1 BE
+
+https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-049/stream.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Eleven Pro League 1 BE (French language)
+
+https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-050/stream.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Play Sports 1 BE
+
+https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-051/stream.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Play Sports 2 BE
+
+https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-052/stream.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Play Sports 3 BE
+
+https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-053/stream.mpd
+
+#EXTINF:0 tvg-id="ElevenSports1.pt" group-title="SPORTS",Eleven Sports 1 PT
+
+https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-054/stream.mpd
+
+#EXTINF:0 tvg-id="ElevenSports2.pt" group-title="SPORTS",Eleven Sports 2 PT
+
+https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-055/stream.mpd
+
+#EXTINF:0 tvg-id="ElevenSports3.pt" group-title="SPORTS",Eleven Sports 3 PT
+
+https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-056/stream.mpd
+
+#EXTINF:0 tvg-id="ElevenSports4.pt" group-title="SPORTS",Eleven Sports 4 PT
+
+https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-057/stream.mpd
+
+#EXTINF:0 tvg-id="ElevenSports5.pt" group-title="SPORTS",Eleven Sports 5 PT
+
+https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-058/stream.mpd
+
+#EXTINF:0 tvg-id="ElevenSports6.pt" group-title="SPORTS",Eleven Sports 6 PT
+
+https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-059/stream.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",True Premier 1
+
+https://sport.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8|referer=https://oneplayer.online/
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",True Premier 2
+
+https://sport.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8|referer=https://oneplayer.online/
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",True Premier 3
+
+https://sport.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8|referer=https://oneplayer.online/
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",True Premier 4
+
+https://sport.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8|referer=https://oneplayer.online/
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",True Premier 5
+
+https://sport.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8|referer=https://oneplayer.online/
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",True Sports 1
+
+https://sport.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8|referer=https://oneplayer.online/
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",True Sports 2
+
+https://sport.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8|referer=https://oneplayer.online/
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",True Sports 3
+
+https://sport.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8|referer=https://oneplayer.online/
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",True Sports 4
+
+https://sport.livedoomovies.com:4432/02_2sporthd4_720p/chunklist.m3u8|referer=https://oneplayer.online/
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",True Sports 5
+
+https://sport.livedoomovies.com:4432/02_sport5_480p/chunklist.m3u8|referer=https://oneplayer.online/
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",True Sports 6
+
+https://sport.livedoomovies.com:4432/02_sport6_480p/chunklist.m3u8|referer=https://oneplayer.online/
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",True Sports 7
+
+https://sport.livedoomovies.com:4432/02_sport7_480p/chunklist.m3u8|referer=https://oneplayer.online/
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",SONY SPORTS TEN 1
+
+https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",SONY SPORTS TEN 2
+
+https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",SONY SPORTS TEN 3
+
+https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",SONY SPORTS TEN 4
+
+https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",SONY SPORTS TEN 5
+
+https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",SuperSport Action
+
+https://webudit.vipboxtv.stream/lb/premium420/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",SuperSport Golf
+
+https://webudit.vipboxtv.stream/lb/premium422/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",SuperSport Grandstand
+
+https://webudit.vipboxtv.stream/lb/premium412/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",SuperSport PSL
+
+https://webudit.vipboxtv.stream/lb/premium413/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",SuperSport Premier League
+
+https://webudit.vipboxtv.stream/lb/premium414/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",SuperSport Football
+
+https://webudit.vipboxtv.stream/lb/premium56/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",SuperSport LaLiga
+
+https://webudit.vipboxtv.stream/lb/premium415/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",SuperSport Motorsports
+
+https://webudit.vipboxtv.stream/lb/premium424/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",SuperSport Rugby
+
+https://webudit.vipboxtv.stream/lb/premium421/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",SuperSport Tennis
+
+https://webudit.vipboxtv.stream/lb/premium423/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",SuperSport Variety 1
+
+https://webudit.vipboxtv.stream/lb/premium416/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",SuperSport Variety 2
+
+https://webudit.vipboxtv.stream/lb/premium417/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",SuperSport Variety 3
+
+https://webudit.vipboxtv.stream/lb/premium418/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",SuperSport Variety 4
+
+https://webudit.vipboxtv.stream/lb/premium419/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",TNT Sports 1
+
+https://webudit.vipboxtv.stream/lb/premium31/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",TNT Sports 2
+
+https://webudit.vipboxtv.stream/lb/premium32/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",TNT Sports 3
+
+https://webudit.vipboxtv.stream/lb/premium33/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",TNT Sports 4
+
+https://webudit.vipboxtv.stream/lb/premium34/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Sky Sport NZ Select
+
+https://webudit.vipboxtv.stream/lb/premium587/index.m3u8|Origin=https://streamservicehd.click
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Sky Sport NZ 1
+
+https://webudit.vipboxtv.stream/lb/premium588/index.m3u8|Origin=https://streamservicehd.click
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Sky Sport NZ 2
+
+https://webudit.vipboxtv.stream/lb/premium589/index.m3u8|Origin=https://streamservicehd.click
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Sky Sport NZ 3
+
+https://webudit.vipboxtv.stream/lb/premium590/index.m3u8|Origin=https://streamservicehd.click
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Sky Sport NZ 4
+
+https://webudit.vipboxtv.stream/lb/premium591/index.m3u8|Origin=https://streamservicehd.click
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Sky Sport NZ 5
+
+https://webudit.vipboxtv.stream/lb/premium592/index.m3u8|Origin=https://streamservicehd.click
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Sky Sport NZ 6
+
+https://webudit.vipboxtv.stream/lb/premium593/index.m3u8|Origin=https://streamservicehd.click
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Sky Sport NZ 7
+
+https://webudit.vipboxtv.stream/lb/premium594/index.m3u8|Origin=https://streamservicehd.click
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Sky Sport NZ 8
+
+https://webudit.vipboxtv.stream/lb/premium595/index.m3u8|Origin=https://streamservicehd.click
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Sky Sport NZ 9
+
+https://webudit.vipboxtv.stream/lb/premium596/index.m3u8|Origin=https://streamservicehd.click
+
+#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="SPORTS",Sky Sports Main Event
+
+https://webudit.vipboxtv.stream/lb/premium38/index.m3u8
+
+#EXTINF:0 tvg-id="SkySpPL.uk" group-title="SPORTS",Sky Sports Premier League
+
+https://webudit.vipboxtv.stream/lb/premium130/index.m3u8
+
+#EXTINF:0 tvg-id="SkySpFball.uk" group-title="SPORTS",Sky Sports Football
+
+https://webudit.vipboxtv.stream/lb/premium35/index.m3u8
+
+#EXTINF:0 tvg-id="SkySpF1.uk" group-title="SPORTS",Sky Sports F1
+
+https://webudit.vipboxtv.stream/lb/premium60/index.m3u8
+
+#EXTINF:0 tvg-id="SkySpArena.uk" group-title="SPORTS",Sky Sports Arena
+
+https://webudit.vipboxtv.stream/lb/premium36/index.m3u8
+
+#EXTINF:0 tvg-id="SkySpAction.uk" group-title="SPORTS",Sky Sports Action
+
+https://webudit.vipboxtv.stream/lb/premium37/index.m3u8
+
+#EXTINF:0 tvg-id="SkySpTheOpen.uk" group-title="SPORTS",Sky Sports Golf
+
+https://webudit.vipboxtv.stream/lb/premium70/index.m3u8
+
+#EXTINF:0 tvg-id="SkySpCricket.uk" group-title="SPORTS",Sky Sports Cricket
+
+https://webudit.vipboxtv.stream/lb/premium65/index.m3u8
+
+#EXTINF:0 tvg-id="SkySpMix.uk" group-title="SPORTS",Sky Sports Mix
+
+https://webudit.vipboxtv.stream/lb/premium449/index.m3u8
+
+#EXTINF:0 tvg-id="AtTheRaces.uk" group-title="SPORTS",Sky Sports Racing
+
+https://webudit.vipboxtv.stream/lb/premium554/index.m3u8
+
+#EXTINF:0 tvg-id="beINSportsEnglish1.qa" group-title="SPORTS",beIN SPORTS English 1
+
+http://webudit.vipboxtv.stream/lb/premium61/index.m3u8
+
+#EXTINF:0 tvg-id="beINSportsEnglish2.qa" group-title="SPORTS",beIN SPORTS English 2
+
+http://webudit.vipboxtv.stream/lb/premium90/index.m3u8
+
+#EXTINF:0 tvg-id="beINSportsEnglish3.qa" group-title="SPORTS",beIN SPORTS English 3
+
+http://webudit.vipboxtv.stream/lb/premium46/index.m3u8
+
+#EXTINF:0 tvg-id="beINSportsPremium1.qa" group-title="SPORTS",beIN SPORTS PREMIUM 1
+
+http://webudit.vipboxtv.stream/lb/premium98/index.m3u8
+
+#EXTINF:0 tvg-id="beINSportsPremium2.qa" group-title="SPORTS",beIN SPORTS PREMIUM 2
+
+http://webudit.vipboxtv.stream/lb/premium99/index.m3u8
+
+#EXTINF:0 tvg-id="beINSportsPremium3.qa" group-title="SPORTS",beIN SPORTS PREMIUM 3
+
+http://webudit.vipboxtv.stream/lb/premium100/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",ASSP 1
+
+https://webudit.vipboxtv.stream/lb/premium123/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",ASSP 2
+
+https://webudit.vipboxtv.stream/lb/premium124/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",ASSP 3
+
+https://webudit.vipboxtv.stream/lb/premium125/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",ASSP 4
+
+https://webudit.vipboxtv.stream/lb/premium126/index.m3u8
+
+#EXTINF:0 tvg-id="DigiSport1.ro" group-title="SPORTS",Digi Sport 1
+
+https://play.stirilepe.net/digisport1hd/index.m3u8|referer=https://rds.live/
+
+#EXTINF:0 tvg-id="DigiSport2.ro" group-title="SPORTS",Digi Sport 2
+
+https://play.stirilepe.net/digisport2hd/index.m3u8|referer=https://rds.live/
+
+#EXTINF:0 tvg-id="DigiSport3.ro" group-title="SPORTS",Digi Sport 3
+
+https://play.stirilepe.net/digisport3sd/index.m3u8|referer=https://rds.live/
+
+#EXTINF:0 tvg-id="DigiSport4.ro" group-title="SPORTS",Digi Sport 4
+
+https://play.stirilepe.net/digisport4sd/index.m3u8|referer=https://rds.live/
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",PrimaSport 1
+
+https://play.stirilepe.net/primasport1hd/index.m3u8|referer=https://rds.live/
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",PrimaSport 2
+
+https://play.stirilepe.net/primasport2sd/index.m3u8|referer=https://rds.live/
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",PrimaSport 3
+
+https://play.stirilepe.net/primasport3sd/index.m3u8|referer=https://rds.live/
+
+#EXTINF:0 tvg-id="esp" group-title="SPORTS",EuroSport 1
+
+https://play.stirilepe.net/eurosportsd/index.m3u8|referer=https://rds.live/
+
+#EXTINF:0 tvg-id="esp2" group-title="SPORTS",EuroSport 2
+
+https://play.stirilepe.net/eurosport2sd/index.m3u8|referer=https://rds.live/
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Pro Arena
+
+https://play.stirilepe.net/proarenasd/index.m3u8|referer=https://rds.live/
+
+#EXTINF:0 tvg-id="SportExtra.ro" group-title="SPORTS",Sport Extra
+
+https://play.stirilepe.net/sportextrahd/index.m3u8|referer=https://rds.live/
+
+
+
+#EXTINF:0 tvg-id="tv1-lt" group-title="MALAYSIA",TV1
+
+https://prot.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default.mpd
+
+#EXTINF:0 tvg-id="TV2.dk" group-title="MALAYSIA",TV2
+
+https://prot.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default.mpd
+
+#EXTINF:0 tvg-id="tv3" group-title="MALAYSIA",TV3
+
+https://unifi-live04.secureswiftcontent.com/UnifiHD/live03.mpd
+
+#EXTINF:0 tvg-id="tv6-lat" group-title="MALAYSIA",TV6
+
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd?id=1
+
+#EXTINF:0 tvg-id="8TV.lv" group-title="MALAYSIA",8TV
+
+https://unifi-live04.secureswiftcontent.com/UnifiHD/live08.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA",TV9
+
+https://unifi-live04.secureswiftcontent.com/UnifiHD/live09.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA",TV AlHijrah
+
+https://prot.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA",TV Okey
+
+https://prot.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default.mpd
+
+#EXTINF:0 tvg-id="TVS.pl" group-title="MALAYSIA",TVS
+
+https://prot.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA",Awesome TV
+
+https://prot.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA",Didik TV
+
+https://unifi-live04.secureswiftcontent.com/UnifiHD/live06.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA",Hypp Inspirasi
+
+https://unifi-live04.secureswiftcontent.com/UnifiHD/live29.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA",Salam HD
+
+https://unifi-live04.secureswiftcontent.com/UnifiHD/live32.mpd
+
+
+
+#EXTINF:0 tvg-id="5kanal" group-title="Singapore",Channel 5
+
+https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
+
+#EXTINF:0 tvg-id="Channel8.il" group-title="Singapore",Channel 8
+
+https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="Singapore",Channel U
+
+https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="Singapore",Suria
+
+https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="Singapore",Vasantham
+
+https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="THAILAND",🇹🇭 ALTV
+
+https://cdn6.goprimetime.info/feed/202306140918/ALTV3/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="THAILAND",🇹🇭 Amarin34
+
+https://cdn6.goprimetime.info/feed/202306140918/chamarin3/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="THAILAND",🇹🇭 CH3
+
+https://cdn6.goprimetime.info/feed/202306140918/ch3hd3/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="THAILAND",🇹🇭 CH5
+
+https://cdn6.goprimetime.info/feed/202306140918/ch5hd3/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="THAILAND",🇹🇭 CH7
+
+https://cdn6.goprimetime.info/feed/202306140918/ch7hd3/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="THAILAND",🇹🇭 CH8
+
+https://cdn6.goprimetime.info/feed/202306140918/ch83/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="THAILAND",🇹🇭 GMM25
+
+https://cdn6.goprimetime.info/feed/202306140918/chgmm3/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="THAILAND",🇹🇭 JKN18
+
+https://cdn6.goprimetime.info/feed/202306140918/newtv3/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="THAILAND",🇹🇭 MCOT
+
+https://cdn6.goprimetime.info/feed/202306140918/chmcothd3/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="THAILAND",🇹🇭 MONO29
+
+https://cdn6.goprimetime.info/feed/202306140918/chmono293/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="THAILAND",🇹🇭 Nation TV
+
+https://cdn6.goprimetime.info/feed/202306140918/chnation3/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="THAILAND",🇹🇭 NBT2
+
+https://cdn6.goprimetime.info/feed/202306140918/chnbt3/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="THAILAND",🇹🇭 New TV
+
+https://cdn6.goprimetime.info/feed/202205171929/newtv/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="THAILAND",🇹🇭 ONE31
+
+https://cdn6.goprimetime.info/feed/202306140918/chonehd3/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="THAILAND",🇹🇭 PPTV
+
+https://cdn6.goprimetime.info/feed/202306140918/chpptvhd3/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="THAILAND",🇹🇭 Thai PBS
+
+http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="THAILAND",🇹🇭 Thairath TV
+
+https://cdn6.goprimetime.info/feed/202306140918/chthairath3/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="THAILAND",🇹🇭 TNN16
+
+https://cdn6.goprimetime.info/feed/202306140918/chtnn3/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="THAILAND",🇹🇭 TNN24
+
+https://cdn6.goprimetime.info/feed/202205171929/chtnn/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="THAILAND",🇹🇭 TPTV
+
+https://cdn6.goprimetime.info/feed/202306140918/TPTV/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="THAILAND",🇹🇭 True 4U
+
+https://cdn6.goprimetime.info/feed/202306140918/chtrue4u3/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="THAILAND",🇹🇭 TSport7
+
+https://cdn6.goprimetime.info/feed/202306140918/chtsport3/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="THAILAND",🇹🇭 Workpoint TV
+
+https://cdn6.goprimetime.info/feed/202306140918/chworkpoint3/index.m3u8
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="ASIAN GAMES",Asian Games CH01
+
+https://mwmpos03.akamaized.net/out/v1/64a59477c5d34afba754e763bb12ac81/manifest.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="ASIAN GAMES",Asian Games CH02
+
+https://mwmpos01.akamaized.net/out/v1/a9e54b70137743d3b94f57272486d981/manifest.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="ASIAN GAMES",Asian Games CH03
+
+https://mwmpos02.akamaized.net/out/v1/5b52a13f709640b587bc825b4683fbd6/manifest.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="ASIAN GAMES",Asian Games CH04
+
+https://mwmpos04.akamaized.net/out/v1/1b7d7fe5d8224ec5b751f2d0d0ae3006/manifest.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="ASIAN GAMES",Asian Games CH05
+
+https://mwmpos03.akamaized.net/out/v1/d5536f0898994112a118290f25e5648b/manifest.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="ASIAN GAMES",Asian Games CH06
+
+https://mwmpos01.akamaized.net/out/v1/ee3d338d368f453a9c4181d119599e05/manifest.mpd
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",MOJI HD
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch26)/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",TRANSTV HD
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch396)/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",TRANS7 HD
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch397)/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",ANTV HD
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch390)/index.m3u8
+
+#EXTINF:0 tvg-id="baltijos-lt" group-title="FIRSTMEDIA",BTV
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch360)/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",BERITASATU WORLD
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch19)/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",JAKARTA GLOBE
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch2)/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",KOMPASTV HD
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch410)/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",METROTV HD
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch394)/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",IDX CHANNEL
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch389)/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",GARUDATV
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch45)/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",DAAITV
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch128)/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",HOREE!
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch375)/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",JAKTV
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch392)/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",JTV
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch17)/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",TV9 NUSANTARA
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch352)/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",WESTJAVA NETWORK
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch50)/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",BALAIKOTA CHANNEL
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch73)/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",BALAIKOTA BANDUNG
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch102)/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",FIRST WARRIORS
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch999)/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",FIRST LIFESTYLE
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3)/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",CITRA MUSLIM
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch334)/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",CITRA BIOSKOP
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch376)/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",CITRA DRAMA
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch378)/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",CITRA DANGDUT
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch377)/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",CITRA ENTERTAINMENT
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch379)/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",TVRI
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch399)/index.m3u8
+
+#EXTINF:0 tvg-id="AXN.bg" group-title="FIRSTMEDIA",AXN
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch332)/index.m3u8
+
+#EXTINF:0 tvg-id="Paramount.es" group-title="FIRSTMEDIA",PARAMOUNT NETWORK
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch309)/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",ROCK ACTION
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch330)/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",ROCK ENTERTAINMENT
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch335)/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",HITSMOVIE
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch324)/index.m3u8
+
+#EXTINF:0 tvg-id="SkyCinemaHits.de" group-title="FIRSTMEDIA",HITS
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch326)/index.m3u8
+
+#EXTINF:0 tvg-id="SonyMax.uk" group-title="FIRSTMEDIA",SONY MAX
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch174)/index.m3u8
+
+#EXTINF:0 tvg-id="Kix.uk" group-title="FIRSTMEDIA",KIX
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch336)/index.m3u8
+
+#EXTINF:0 tvg-id="TVN.pl" group-title="FIRSTMEDIA",TVN
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch339)/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",TVNMOVIES
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch343)/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",KBSWORLD
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch262)/index.m3u8
+
+#EXTINF:0 tvg-id="ONE.ca" group-title="FIRSTMEDIA",ONE
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch338)/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",ZEEBIOSKOP
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch161)/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",SPOTV
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch329)/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",SPOTV2
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3300)/index.m3u8
+
+#EXTINF:0 tvg-id="esp" group-title="FIRSTMEDIA",EUROSPORT
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch21)/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",CGTN DOCUMENTARY
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch405)/index.m3u8
+
+#EXTINF:0 tvg-id="discov_rus" group-title="FIRSTMEDIA",DISCOVERY CHANNEL
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch29)/index.m3u8
+
+#EXTINF:0 tvg-id="animal_rus" group-title="FIRSTMEDIA",ANIMAL PLANET
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch31)/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",LOVENATURE
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch368)/index.m3u8
+
+#EXTINF:0 tvg-id="history-rus" group-title="FIRSTMEDIA",HISTORY
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch131)/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",CRIMEINVESTIGATION
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch349)/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",TECHSTORM
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch333)/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",GLOBAL TREKKER
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch366)/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",DREAMWORK
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch374)/index.m3u8
+
+#EXTINF:0 tvg-id="Lifetime.uk" group-title="FIRSTMEDIA",LIFETIME
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch155)/index.m3u8
+
+#EXTINF:0 tvg-id="hgtv" group-title="FIRSTMEDIA",HGTV
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch354)/index.m3u8
+
+#EXTINF:0 tvg-id="tlc-russia" group-title="FIRSTMEDIA",TLC
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch35)/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",AFN
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch76)/index.m3u8
+
+#EXTINF:0 tvg-id="food-network-rus" group-title="FIRSTMEDIA",FOOD NETWORK
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch355)/index.m3u8
+
+#EXTINF:0 tvg-id="fashion" group-title="FIRSTMEDIA",FASHIONTV
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch168)/index.m3u8
+
+#EXTINF:0 tvg-id="da_vinci-rus" group-title="FIRSTMEDIA",DAVINCI
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch371)/index.m3u8
+
+#EXTINF:0 tvg-id="Animax.de" group-title="FIRSTMEDIA",ANIMAX
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch52)/index.m3u8
+
+#EXTINF:0 tvg-id="boomerang" group-title="FIRSTMEDIA",BOOMERANG
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch372)/index.m3u8
+
+#EXTINF:0 tvg-id="cartoon" group-title="FIRSTMEDIA",CARTOON NETWORK
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch103)/index.m3u8
+
+#EXTINF:0 tvg-id="nickelodeon-rus" group-title="FIRSTMEDIA",NICKELODEON
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch105)/index.m3u8
+
+#EXTINF:0 tvg-id="nick-jr" group-title="FIRSTMEDIA",NICKJR.
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch124)/index.m3u8
+
+#EXTINF:0 tvg-id="mtv-rocks" group-title="FIRSTMEDIA",MTV 90S
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",MTV STAGE
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch242)/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",STINGRAY NATURESCAPE
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch367)/index.m3u8
+
+#EXTINF:0 tvg-id="StingrayDJAZZ.de" group-title="FIRSTMEDIA",STINGRAY DJAZZ
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3344)/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",GEM
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3400)/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="FIRSTMEDIA",CH3888
+
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3888)/index.m3u8
