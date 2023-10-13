@@ -58,8 +58,11 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 #EXTINF:-1 tvg-id="ANTV.MACAN" tvg-name="ANTV" tvg-logo="https://i.ibb.co/Qfk95m3/jfc.png" group-title="LOKAL",ANTV
 http://rr2.dens.tv/s/s07/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e7f70e39cc40ff59938530edbd768d4f.png" group-title="LOKAL", MOJI (F*)
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e7f70e39cc40ff59938530edbd768d4f.png" group-title="LOKAL",MOJI
 http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/03.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/Logo_Jak_tv_%282005-2010%29.png" group-title="LOKAL", Jak Tv
+http://edge.linknetott.swiftserve.com/channelgroup5/cg530production/ch392/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -143,13 +146,13 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157594
 #KODIPROP:inputstream.adaptive.license_key=https://hbofamp.openwindow040.workers.dev
 #EXTINF:-1 group-title="MOVIES" tvg-id="HBO HD" tvg-url="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115",HBO
 #https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
-http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/197972
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/197972
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://hbofamp.openwindow040.workers.dev
 #EXTINF:-1 group-title="MOVIES" tvg-id="HBO Signature HD" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115",HBO Signature
 #https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
-http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/221948
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/221948
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://hbofamp.openwindow040.workers.dev
@@ -161,13 +164,10 @@ http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/196480
 #KODIPROP:inputstream.adaptive.license_key=https://hbofamp.openwindow040.workers.dev
 #EXTINF:-1 group-title="MOVIES" tvg-id="HBO Family HD" tvg-url="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_160_115",HBO Family
 #https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
-http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/197055
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/197055
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cinemaxp.openwindow040.workers.dev
-#EXTINF:-1 group-title="MOVIES" tvg-id="Cinemax" tvg-url="" tvg-logo="https://i.imgur.com/uB76Ft0.png",Cinemax
-#https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
-http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/197964
+#EXTINF:0 tvg-id="cinemax.id" tvg-logo="https://i.postimg.cc/g2gBC2rC/20230519-230619.jpg" group-title="MOVIES",Cinemax 
+https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
 #EXTINF:-1 tvg-name="" group-title="MOVIES" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/AXN.png",AXN
 http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/165079
