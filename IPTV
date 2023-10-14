@@ -19,7 +19,7 @@ http://sysadminhost.net:8080/24eacfe8/c52fb4d1/157591
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/800px-MNCTV_logo_2015.svg.png",MNCTV-HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+http://xtv.ooo:8080/88876776555/87677666654/350996
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.imgur.com/y9EL3Zi.jpg",GTV-HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
